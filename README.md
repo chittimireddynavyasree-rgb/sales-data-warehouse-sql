@@ -1,8 +1,8 @@
 # Sales Data Warehouse (SQL Server)
 
 ## 📌 Project Overview
+This architecture ensures scalable data processing and supports analytical reporting for business decision-making.
 This project demonstrates an end-to-end Sales Data Warehouse built using SQL Server following the Medallion Architecture (Bronze, Silver, Gold layers).
-
 The system integrates CRM and ERP data sources and transforms them into analytical-ready star schema tables.
 
 ---
@@ -22,24 +22,24 @@ The system integrates CRM and ERP data sources and transforms them into analytic
 
 ---
 
-## 🥉 Bronze Layer
+## Bronze Layer
 - Raw data ingestion
 - CRM & ERP source tables
 - Minimal transformations
 
-## 🥈 Silver Layer
+## Silver Layer
 - Data cleaning
 - Standardization
 - Data transformations
 
-## 🥇 Gold Layer
+## Gold Layer
 - Fact & Dimension tables
 - Business-ready analytical model
 - Star schema design
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - SQL Server
 - T-SQL
 - Data Warehousing Concepts
@@ -48,7 +48,7 @@ The system integrates CRM and ERP data sources and transforms them into analytic
 
 ---
 
-## 📊 Key Features
+## Key Features
 - End-to-end ETL flow
 - CRM + ERP data integration
 - Dimensional modeling
@@ -57,5 +57,5 @@ The system integrates CRM and ERP data sources and transforms them into analytic
 
 ---
 
-## 👩‍💻 Author
-Chittimireddy Navyasree
+## Project Author
+Navyasree Chittimireddy
